@@ -1,0 +1,48 @@
+Animal: 0
+Especie: Zebra
+Idade: 0.4 Anos
+Peso: 159.54 Kg
+Sexo: Macho
+---------------------------
+Animal: 1
+Especie: Rinoceronte
+Idade: 2.4 Anos
+Peso: 345 Kg
+Sexo: Femea
+---------------------------
+Animal: 3
+Especie: Elefante
+Idade: 13 Anos
+Peso: 734 Kg
+Sexo: Macho
+---------------------------
+Animal: 5
+Especie: leao
+Idade: 1 Anos
+Peso: 54 Kg
+Sexo: Macho
+---------------------------
+Animal: 6
+Especie: zebra
+Idade: 1.3 Anos
+Peso: 94 Kg
+Sexo: Femea
+---------------------------
+Animal: 7
+Especie: Girafa
+Idade: 21 Anos
+Peso: 554 Kg
+Sexo: Macho
+---------------------------
+Animal: 8
+Especie: Girafa
+Idade: 1.3 Anos
+Peso: 299 Kg
+Sexo: Femea
+---------------------------
+Animal: 9
+Especie: Rinoceronte
+Idade: 0.5 Anos
+Peso: 502 Kg
+Sexo: Macho
+---------------------------
